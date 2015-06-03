@@ -1,0 +1,29 @@
+{
+  "name": "jcas",
+  "version": "1.0.0",
+  "description": "CAS Node.js client",
+  "main": "jcas.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AdoHe/jcas.git"
+  },
+  "keywords": [
+    "CAS",
+    "node",
+    "node.js",
+    "client",
+    "authentication"
+  ],
+  "author": "TonyAdo <coolhzb@163.com>",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/AdoHe/jcas/issues"
+  },
+  "homepage": "https://github.com/AdoHe/jcas"
+}
